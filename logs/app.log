@@ -1,0 +1,10 @@
+2026-10-20T10:30:00Z INFO Request started requestId=req-101
+2026-10-20T10:30:01Z INFO Fetching user profile requestId=req-101
+2026-10-20T10:30:02Z ERROR Connection timeout service=profile requestId=req-101
+2026-10-20T10:30:03Z WARN Retrying request requestId=req-101
+2026-10-20T10:30:05Z ERROR Request failed requestId=req-101
+2026-10-20T10:31:00Z INFO Request started requestId=req-102
+2026-10-20T10:31:01Z INFO Payment processed requestId=req-102
+2026-10-20T10:32:00Z WARN High response time endpoint=/users
+2026-10-20T10:33:00Z ERROR Database connection refused service=database
+2026-10-20T10:33:05Z INFO Database connection restored service=database
